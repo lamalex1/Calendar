@@ -29,11 +29,11 @@ header .current-date{
     font-size: 1.45rem;
     font-weight: 500;
 }
-header .icon span{
+header .icons span{
     height: 38px;
     width: 38px;
     color: #878787;
-    font-size: 1.9rem;
+    font-size: 1.9 rem;
     margin: 0 1px;
     cursor: pointer;
     text-align: center;
